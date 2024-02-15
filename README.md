@@ -1,4 +1,4 @@
-# useage
+# usage
 双击打开`index.html`即可
 
 # 组织架构
